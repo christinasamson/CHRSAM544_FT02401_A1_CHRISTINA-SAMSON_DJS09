@@ -1,4 +1,4 @@
-
+// Code Tidy
 
 import { showReviewTotal, populateUser, showDetails, getTopTwoReviews} from './utils'
 import { Permissions , LoyaltyUser } from './enums'
